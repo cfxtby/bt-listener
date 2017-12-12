@@ -1,0 +1,8 @@
+本程序使用python进行开发，主要包含
+一，pynids捕包
+二，BT协议还原，提取传输数据
+三，基于双数组的AC自动机进行数据监测；
+四，iptables进行配置
+五，界面显示
+
+需要的环境为，pyqt4，pynids，python-iptables等

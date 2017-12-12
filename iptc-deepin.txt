@@ -1,0 +1,1 @@
+sudo PATH=$PATH IPTABLES_LIBDIR=/usr/lib/x86_64-linux-gnu XTABLES_LIBDIR=/usr/lib/x86_64-linux-gnu/xtables python
